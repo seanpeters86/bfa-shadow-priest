@@ -1,3 +1,5 @@
+# [THIS REPO HAS BEEN MOVED, PLEASE GO TO THE NEW ONE](https://github.com/WarcraftPriests/bfa-shadow-priests)
+
 # BfA Shadow Priest Sims
 
 This repo includes scripts and sims for shadow priests.
