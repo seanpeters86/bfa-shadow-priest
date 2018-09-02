@@ -1,6 +1,0 @@
-*.pyc
-secrets.py
-results/
-profiles/
-__pycache__/
-test.py
